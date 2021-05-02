@@ -2,7 +2,7 @@
 <addon id="game.libretro.remotejoy"
 		name="PSP RemotePlay (RemoteJoy)"
 		version="1.0.0.1"
-		provider-name="">
+		provider-name="Themaister">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
