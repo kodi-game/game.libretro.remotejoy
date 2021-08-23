@@ -1,1 +1,1 @@
-remotejoy https://github.com/libretro/libretro-remotejoy/archive/61211d841d06955081cf730e8f78fa69ba5dec6a.zip
+remotejoy https://github.com/libretro/libretro-remotejoy/archive/61211d841d06955081cf730e8f78fa69ba5dec6a.tar.gz
