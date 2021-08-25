@@ -14,10 +14,10 @@
 		<supports_standalone>true</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">PSP RemotePlay (RemoteJoy) v1</summary>
-		<description lang="en_GB">Remote Joy allows the user to stream the PSP screen to their computer.</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.remotejoy</source>
+		<summary lang="en_GB">PSP RemotePlay (RemoteJoy) v1</summary>
+		<description lang="en_GB">Remote Joy allows the user to stream the PSP screen to their computer.</description>
 	</extension>
 </addon>
