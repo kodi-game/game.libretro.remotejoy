@@ -20,5 +20,6 @@
 		<source>https://github.com/kodi-game/game.libretro.remotejoy</source>
 		<summary lang="en_GB">PSP RemotePlay (RemoteJoy) v1</summary>
 		<description lang="en_GB">Remote Joy allows the user to stream the PSP screen to their computer.</description>
+		<description lang="ko_KR">Remote Joy를 사용하면 PSP 화면을 컴퓨터로 스트리밍할 수 있습니다.</description>
 	</extension>
 </addon>
