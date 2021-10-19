@@ -4,9 +4,21 @@
 # PSP RemotePlay (RemoteJoy)
 
 ### Description
+
 Remote Joy allows the user to stream the PSP screen to their computer.
 
 ### License
+
 GPLv2
 
+### Icon
 
+Help make me an icon!
+
+### Fanart
+
+Help make me fanart!
+
+### Screenshots
+
+Help make me screenshots!
