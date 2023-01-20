@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.remotejoy"
 		name="PSP RemotePlay (RemoteJoy)"
-		version="1.0.0.11"
+		version="1.0.0.12"
 		provider-name="Themaister">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -18,6 +18,9 @@
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.remotejoy</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">PSP RemotePlay (RemoteJoy) v1</summary>
 		<description lang="da_DK">Remote Joy giver brugeren mulighed for at streame PSP-skærmen til deres computer.</description>
 		<description lang="en_GB">Remote Joy allows the user to stream the PSP screen to their computer.</description>

@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-Help make me an icon!
+![Icon](game.libretro.remotejoy/resources/icon.png)
 
 ### Fanart
 
