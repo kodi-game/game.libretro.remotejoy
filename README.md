@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.remotejoy/resources/icon.png)
+![PSP RemotePlay (RemoteJoy) icon](game.libretro.remotejoy/resources/icon.png)
 
 ### Fanart
 
