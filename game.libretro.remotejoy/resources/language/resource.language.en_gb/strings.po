@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid "PSP RemotePlay (RemoteJoy) v1"
+msgid "PSP RemotePlay (RemoteJoy)"
 msgstr ""
 
 msgctxt "Addon Description"
