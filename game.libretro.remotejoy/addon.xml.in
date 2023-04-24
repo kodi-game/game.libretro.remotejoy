@@ -21,6 +21,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">PSP RemotePlay (RemoteJoy)</summary>
 		<summary lang="en_GB">PSP RemotePlay (RemoteJoy)</summary>
 		<summary lang="es_ES">PSP RemotePlay (RemoteJoy)</summary>
 		<description lang="da_DK">Remote Joy giver brugeren mulighed for at streame PSP-skærmen til deres computer.</description>
